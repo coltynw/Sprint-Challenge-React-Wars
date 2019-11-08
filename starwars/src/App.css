@@ -6,3 +6,19 @@
   text-shadow: 1px 1px 5px #fff;
 }
 /* write your parent styles in here for your App.js */
+.flex-container{
+  display: flex;
+  justify-content: center;
+}
+.card{
+  border: 2px solid black;
+  height: auto;
+  padding: 50px;
+  margin: 20px;
+  background: white;
+  opacity: 30%;
+}
+p{
+  font-family: 'Times New Roman', Times, serif;
+  opacity: 100%;
+}
